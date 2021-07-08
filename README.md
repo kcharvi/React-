@@ -1,3 +1,3 @@
 # React- Basic implementations
 
-react-to-list : Covers basic concepts of components hooks- {useState, useEffects}
+react-todo-list : Covers basic concepts of components hooks- {useState, useEffects}
